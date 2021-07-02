@@ -19,7 +19,7 @@ function onAgree(){
        
       if (fname!==undefined){  document.getElementById("download").disabled = false;
         console.log(fname);
-        document.getElementById("dwnlink").href = "../work/" + fname + ".png";
+        document.getElementById("dwnlink").href = "../assets/img/work/" + fname + ".png";
          document.getElementById("dwnlink").download = fname + ".pdf";
 
     }} else {
