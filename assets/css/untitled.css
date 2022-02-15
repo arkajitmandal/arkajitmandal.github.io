@@ -10,3 +10,123 @@
   filter: grayscale(0%);
 }
 
+#optlett {
+  color: #b6cf1c;
+  border-color: #b6cf1c;
+}
+
+#optlett:hover {
+  color: #ffffff;
+  background-color: #b6cf1c;
+}
+
+#jchemphys {
+  color: #0051b9;
+  border-color: #0051b9;
+}
+
+#jchemphys:hover {
+  color: #ffffff;
+  background-color: #0051b9;
+}
+
+#physchemchemphys {
+  color: #63accc;
+  border-color: #63accc;
+}
+
+#physchemchemphys:hover {
+  color: #ffffff;
+  background-color: #63accc;
+}
+
+#jphyschemlett {
+  color: #01c5b9;
+  border-color: #01c5b9;
+}
+
+#jphyschemlett:hover {
+  color: #ffffff;
+  background-color: #01c5b9;
+}
+
+#naturecomm {
+  color: rgb(255,92,0);
+  border-color: rgb(255,92,0);
+}
+
+#naturecomm:hover {
+  color: #ffffff;
+  background-color: rgb(255,92,0);
+}
+
+#physrevlett {
+  color: rgb(33,176,141);
+  border-color: rgb(33,176,141);
+}
+
+#physrevlett:hover {
+  color: #ffffff;
+  background-color: rgb(33,176,141);
+}
+
+#jphyschemB {
+  color: #00cbf8;
+  border-color: #00cbf8;
+}
+
+#jphyschemB:hover {
+  color: #ffffff;
+  background-color: #00cbf8;
+}
+
+#jphyschemA {
+  color: rgb(244,185,10);
+  border-color: rgb(244,185,10);
+}
+
+#jphyschemA:hover {
+  color: #ffffff;
+  background-color: rgb(244,185,10);
+}
+
+#jchemtheorycomput {
+  color: rgb(21,152,18);
+  border-color: rgb(21,152,18);
+}
+
+#jchemtheorycomput:hover {
+  color: #ffffff;
+  background-color: rgb(21,152,18);
+}
+
+#supermicro {
+  color: #18a5ae;
+  border-color: #18a5ae;
+}
+
+#supermicro:hover {
+  color: #ffffff;
+  background-color: #18a5ae;
+}
+
+#optcomm {
+  color: red;
+  border-color: red;
+}
+
+#optcomm:hover {
+  color: #ffffff;
+  background-color: red;
+}
+
+#chemphys {
+  color: rgb(255,101,80);
+  border-color: rgb(255,101,80);
+}
+
+#chemphys:hover {
+  color: #ffffff;
+  background-color: rgb(255,101,80);
+}
+
