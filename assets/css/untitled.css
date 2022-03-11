@@ -1,6 +1,6 @@
 .avatar {
-  -webkit-filter: grayscale(100%);
-  filter: grayscale(100%);
+  -webkit-filter: grayscale(50%);
+  filter: grayscale(50%);
   height: 200px;
   width: 200px;
 }
