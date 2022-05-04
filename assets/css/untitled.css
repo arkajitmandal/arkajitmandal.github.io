@@ -130,3 +130,13 @@
   background-color: rgb(255,101,80);
 }
 
+#preprint {
+  color: rgb(102, 102, 102);
+  border-color: rgb(102, 102, 102);
+}
+
+#preprint:hover {
+  color: #ffffff;
+  background-color: rgb(102, 102, 102);
+}
+
