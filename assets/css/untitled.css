@@ -140,3 +140,31 @@
   background-color: rgb(102, 102, 102);
 }
 
+.vbu {
+  background-image: url("../../assets/img/VBU.png");
+  background-repeat: no-repeat;
+  background-size: 3%;
+  background-position: right 1% bottom 98%;
+}
+
+.ncl {
+  background-image: url("../../assets/img/Screen%20Shot%202021-05-06%20at%208.17.38%20PM.png");
+  background-repeat: no-repeat;
+  background-size: 6%;
+  background-position: right 1% bottom 98%;
+}
+
+.ur {
+  background-image: url("../../assets/img/UR.2col.v2.png");
+  background-repeat: no-repeat;
+  background-size: 5%;
+  background-position: right 1% bottom 98%;
+}
+
+.cu {
+  background-image: url("../../assets/img/Columbia_University_shield.png");
+  background-repeat: no-repeat;
+  background-size: 5%;
+  background-position: right 1% bottom 98%;
+}
+
