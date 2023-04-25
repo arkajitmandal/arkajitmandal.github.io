@@ -208,8 +208,8 @@ a:hover {
 }
 
 .item {
-  -webkit-filter: grayscale(80%);
-  filter: grayscale(80%);
+  -webkit-filter: grayscale(30%);
+  filter: grayscale(30%);
 }
 
 .item:hover {
@@ -218,8 +218,8 @@ a:hover {
 }
 
 .col-md-6 {
-  -webkit-filter: grayscale(70%);
-  filter: grayscale(70%);
+  -webkit-filter: grayscale(30%);
+  filter: grayscale(30%);
 }
 
 .col-md-6:hover {
@@ -228,8 +228,8 @@ a:hover {
 }
 
 .col-md-4 {
-  -webkit-filter: grayscale(70%);
-  filter: grayscale(70%);
+  -webkit-filter: grayscale(30%);
+  filter: grayscale(30%);
 }
 
 .col-md-4:hover {
