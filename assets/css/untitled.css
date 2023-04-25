@@ -120,6 +120,16 @@
   background-color: red;
 }
 
+#nanolett {
+  color: #cb0000;
+  border-color: #cb0000;
+}
+
+#nanolett:hover {
+  color: #ffffff;
+  background-color: #cb0000;
+}
+
 #chemphys {
   color: rgb(255,101,80);
   border-color: rgb(255,101,80);
@@ -155,14 +165,14 @@
 }
 
 .ur {
-  background-image: url("../../assets/img/UR.2col.v2.png");
+  background-image: url("../../assets/img/uofrBW.png");
   background-repeat: no-repeat;
   background-size: 5%;
   background-position: right 1% bottom 98%;
 }
 
 .cu {
-  background-image: url("../../assets/img/Columbia_University_shield.png");
+  background-image: url("../../assets/img/CUBW.png");
   background-repeat: no-repeat;
   background-size: 5%;
   background-position: right 1% bottom 98%;
