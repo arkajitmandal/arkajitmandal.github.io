@@ -10,6 +10,16 @@
   filter: grayscale(0%);
 }
 
+#nanophotonics {
+  color: #000000;
+  border-color: #0f0f0f;
+}
+
+#nanophotonics:hover {
+  color: #ffffff;
+  background-color: #000000;
+}
+
 #optlett {
   color: #b6cf1c;
   border-color: #b6cf1c;
